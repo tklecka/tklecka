@@ -1,8 +1,5 @@
-## Hi there 👋
-- 🔭 I am currently working on an open source smart LED lamp
-- 🌱 I’m currently learning Go(lang) and playing around with RUST
-- 📫 How to reach me: Leave a issue for me at this repo
-
+# Hey There 
+I currently work at Cloudflight.io as a software engineer. I started there after I finished a Higher technical college for computer science in 2020. Some technologies I enjoy working with include Dart, C#, Go and Flutter. I am looking forward to bring some cool things to the amazing OSS world.
 ## Social media
 - Medium: https://medium.com/@tim.klecka
 - Linkedin: https://www.linkedin.com/in/tim-matthias-klecka/
